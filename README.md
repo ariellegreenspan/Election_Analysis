@@ -1,5 +1,6 @@
 # Election_Analysis
-## Project Overview
+
+## Overview of Election Audit
   A Colorado Board of Elections employee has given you the following tasks to complete the local audit of a recent local congressional election:
     1. Calculate the total number of votes cast.
     2. Get a complete list of candidates who received votes.
@@ -10,12 +11,11 @@
     7. Calculate which county had the largest number of votes
     8. Determine the percentage of total votes each county received
    
-    
     ## Resources:
     Data Source: election_results.csv
     Software: Python 3.7.6, Visual Studio Code
     
-    ## Summary:
+    ## Election-Audit Results:
     The analysis of the election shows that
       * There were 369,711 votes cast in the election.
       * The candidates were:
@@ -35,8 +35,8 @@
       * Araphoe county contributed 6.7% to the  total vote.
       * Denver county had the largest percentage of voters in this election.
       
-      
-    
+     ## Election-Audit Summary:
+          This script can be used for any election since it allows analysts to determine an assortment of data about local elections. From this script, one can determine         how many voters participated in the election, how many voters voted for specific candidates, the percentage of voters that voted for specific candidates, the number        of voters per county, the percentage of voters per county, the winner of the election, and the county that had the largest number of voters. One suggestion to              modify the script would be look at additional parameters of the voter population aside from county residence. This script can be modified in the future to look at          the age percentage of the voter population, to give an idea if choice of candidate varies by age of voter. One could also modify the script to determine political          party affiliation of candidates and voters. This would enable analysts to determine which political parties dominate in the election, and which political parties          have a larger percentage of voters per county.   
     
     
 
